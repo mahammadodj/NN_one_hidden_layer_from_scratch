@@ -1,1 +1,2 @@
-# NN_one_hidden_layer_from_scratch
+# Neural_Network_from_scratch
+These Jupyter notebooks are the assignments of Course 1 & Deep Learning Specialization by DeepLearning.AI
